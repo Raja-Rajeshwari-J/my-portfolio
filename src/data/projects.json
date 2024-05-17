@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Employee Registration Form with CRUD operation",
+      "imageSrc": "projects/crud.jpg",
+      "description": "Designed and implemented an interactive Employee Details Form for efficient data storage, retrieval, updation and deletion.",
+      "skills": ["Node", "Express", "MySQL"],
+      "demo": "https://employee-registration-form-rszv.onrender.com/api/form",
+      "source": "https://github.com/Raja-Rajeshwari-J/employee-registration-form.git"
+    },
+    {
+      "title": "YouTube Clone",
+      "imageSrc": "projects/yt-clone.jpg",
+      "description": "Created a simplified version of the YouTube platform. Emphasized responsive design principles for an optimal viewing experience on various screen sizes and replicating core functionalities of the original platform.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://github.com/Raja-Rajeshwari-J?tab=repositories",
+      "source": "https://github.com/Raja-Rajeshwari-J/YouTube-clone.git"
+    },
+    {
+      "title": "Rock Paper Scissors",
+      "imageSrc": "projects/rock-paper-scissors.jpg",
+      "description": "Designed and developed an engaging Rock Paper Scissors game. Ensured accuracy in game logic implementation, providing an enjoyable and interactive experience for users.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://github.com/Raja-Rajeshwari-J/Rock-Paper-Scissors.git",
+      "source": "https://github.com/Raja-Rajeshwari-J?tab=repositories"
+    }
+  ]
